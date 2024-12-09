@@ -22,5 +22,9 @@
   {
     "value": "Andar 1 hora",
     "checked": false
+  },
+  {
+    "value": "pular corda",
+    "checked": false
   }
 ]

@@ -14,5 +14,13 @@
   {
     "value": "Ler por 15 minutos",
     "checked": false
+  },
+  {
+    "value": "correr",
+    "checked": false
+  },
+  {
+    "value": "Andar 1 hora",
+    "checked": false
   }
 ]

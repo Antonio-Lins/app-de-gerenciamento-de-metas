@@ -13,11 +13,11 @@
   },
   {
     "value": "Ler por 15 minutos",
-    "checked": false
+    "checked": true
   },
   {
     "value": "correr",
-    "checked": false
+    "checked": true
   },
   {
     "value": "Andar 1 hora",

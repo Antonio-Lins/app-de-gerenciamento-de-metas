@@ -9,7 +9,7 @@ este é um aplicativo interativo em node.js para gerenciamento de metas pessoais
 - **visualizar metas abertas**: acompanhe as metas que ainda precisam ser concluídas.
 - **deletar metas**: remova metas indesejadas.
 
-## estrutura do projeto
+## estrutura do projeto 
 - o arquivo `index.js` contém a lógica principal do programa.
 - os dados das metas são armazenados no arquivo `metas.json` em formato json.
 - utiliza o pacote [inquirer](https://www.npmjs.com/package/inquirer) para interatividade no terminal.

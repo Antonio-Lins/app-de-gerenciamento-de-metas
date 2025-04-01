@@ -3,7 +3,7 @@
 este é um aplicativo interativo em node.js para gerenciamento de metas pessoais. o projeto permite aos usuários cadastrar, listar, visualizar, editar e excluir metas de forma prática e organizada.
 
 ## funcionalidades
-- **cadastrar metas**: adicione novas metas ao seu planejamento. 
+- **cadastrar metas**: adicione novas metas ao seu planejamento.
 - **listar metas**: visualize todas as metas cadastradas e marque as concluídas.
 - **visualizar metas realizadas**: veja quais metas já foram alcançadas.
 - **visualizar metas abertas**: acompanhe as metas que ainda precisam ser concluídas.
